@@ -9,4 +9,5 @@
     <string name="title_activity_display_message">My Message</string>
     <string name="action_search">Search</string>
 
+    <color name="sea_cyan">#0ff</color>
 </resources>
